@@ -8,7 +8,9 @@ public class TEST {
 		
 		System.out.println("TEST CASE2");
 		
-		System.out.println("Branch Testing");
+		System.out.println("Branch Testing1");
+	
+		System.out.println("Branch Testing2");
 	}
 
 }
